@@ -4,5 +4,7 @@
     <string name="hello">Hello World, TicTacToeActivity! This rocks!</string>
     <string name="app_name">TicTacToe</string>
     <string name="anneString">Wow.  It works!</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
 
 </resources>
